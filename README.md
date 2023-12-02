@@ -1,10 +1,12 @@
+<img src="https://thumbs.dreamstime.com/z/web-software-developer-banner-seacrh-bar-thin-line-objects-work-tools-desk-59453071.jpg?w=800" alt="MasterHead" width="1000" height="350">
 
-![MasterHead](https://thumbs.dreamstime.com/z/web-software-developer-banner-seacrh-bar-thin-line-objects-work-tools-desk-59453071.jpg?w=800)
+
+
 
 <h1 align="center">Hi 👋, I'm Kamal Singh</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 20px;">
 
 - 🔭 I’m currently working on **Cool Projects**
 
