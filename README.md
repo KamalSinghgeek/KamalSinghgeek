@@ -6,13 +6,13 @@
 <h1 align="center">Hi 👋, I'm Kamal Singh</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img align="right" alt="Coding" width="500" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="450" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Cool Projects**
 
-- 🌱 I’m currently learning **MERN Stack, Web3 and AI**
+- 🌱 I’m currently learning **MERN, Web3 & AI**
 
-- 💬 Ask me about **MERN, Web3, AI, IoT**
+- 💬 Ask me about **MERN, Web3, AI, IoT, Data Structures**
 
 - 📫 How to reach me **kamalsingh23056@gmail.com**
 
