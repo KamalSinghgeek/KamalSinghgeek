@@ -1,5 +1,5 @@
 
-![MasterHead](https://thumbs.dreamstime.com/z/web-software-developer-banner-seacrh-bar-thin-line-objects-work-tools-desk-59453071.jpg?w=992)
+![MasterHead](https://thumbs.dreamstime.com/z/web-software-developer-banner-seacrh-bar-thin-line-objects-work-tools-desk-59453071.jpg?w=92)
 
 <h1 align="center">Hi 👋, I'm Kamal Singh</h1>
 <h3 align="center">A passionate Software Engineer</h3>
