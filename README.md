@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Cool Projects**
 
-- 🌱 I’m currently learning **MERN, Web3 & AI**
+- 🌱 I’m currently learning **Web3 & AI**
 
 - 💬 Ask me about **MERN, Web3, AI, IoT, Data Structures**
 
