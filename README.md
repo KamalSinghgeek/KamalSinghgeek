@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Web3 & AI**
 
-- 💬 Ask me about **React, Web3, AI, IoT, Node, Express,MongoDB & Data Structures**
+- 💬 Ask me about **React, Web3, AI, IoT, Node, Express, MongoDB & Data Structures**
 
 - 📫 How to reach me **kamalsingh23056@gmail.com**
 
