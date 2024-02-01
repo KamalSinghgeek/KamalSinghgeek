@@ -1,4 +1,4 @@
-<img src="https://thumbs.dreamstime.com/z/web-software-developer-banner-seacrh-bar-thin-line-objects-work-tools-desk-59453071.jpg?w=800" alt="MasterHead" width="1000" height="350">
+<img src="https://thumbs.dreamstime.com/z/web-software-developer-banner-seacrh-bar-thin-line-objects-work-tools-desk-59453071.jpg?w=800" alt="MasterHead" width="1000" height="50">
 
 
 
