@@ -1,8 +1,6 @@
 <h1 align="center">Hi👋, I'm Kamal</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KamalSinghgeek&label=Profile%20views&color=0e75b6&style=flat" alt="KamalSinghgeek" /> </p>
 <h3 align="center">A Coooool Software Engineer: Currently working with a cool Product startup</h3>
-
-<img align="right" alt="Coding" width="450" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+   <img src="https://komarev.com/ghpvc/?username=KamalSinghgeek&label=Profile%20views&color=0e75b6&style=flat&views=2000" alt="KamalSinghgeek" />
 
 - 🔭 I’m currently working on **Some Cool Projects**
 
