@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Some Cool Projects**
 
-- 🌱 I’m currently learning **Android Dev,iOS, Web3 & AI**
+- 🌱 I’m currently learning **Android Dev, iOS, Web3 & AI**
 
 - 💬 Ask me about **React, Flutter, Web3, AI, IoT, Node, ExpressJS, MongoDB & Data Structures**
 
