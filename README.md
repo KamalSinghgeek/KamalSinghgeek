@@ -1,6 +1,8 @@
 <h1 align="center">Hi👋, I'm Kamal</h1>
 <h3 align="center">A Coooool Software Engineer: Currently working with a cool Product startup</h3>
 
+<img align="right" alt="Coding" width="450" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on **Some Cool Projects**
 
 - 🌱 I’m currently learning **Android Dev, iOS, Web3 & AI**
@@ -11,7 +13,7 @@
 
 - ⚡ Fun fact **I'm alien🤖 & not funny!**
 
-<h3 align="left">Wanna connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kamalsingh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamalsingh01" height="30" width="40" /></a>
 <a href="https://instagram.com/kamalrsrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamalrsrajput" height="30" width="40" /></a>
