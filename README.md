@@ -1,6 +1,5 @@
 <h1 align="center">Hi👋, I'm Kamal</h1>
 <h3 align="center">A Coooool Software Engineer: Currently working with a cool Product startup</h3>
-   <img src="https://komarev.com/ghpvc/?username=KamalSinghgeek&label=Profile%20views&color=0e75b6&style=flat&views=2000" alt="KamalSinghgeek" />
 
 - 🔭 I’m currently working on **Some Cool Projects**
 
