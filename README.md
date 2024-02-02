@@ -20,9 +20,10 @@
 
 <h3 align="left">Wanna connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kamalsingh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamalsingh01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kamalsingh01" target="blank"><img align="center" src="" alt="kamalsingh01" height="30" width="40" /></a>
 <a href="https://instagram.com/kamalrsrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamalrsrajput" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kamal_sr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamal_sr" height="30" width="40" /></a>
+<a href="https://github.com/KamalSinghgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamal_sr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
