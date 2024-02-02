@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/b3449705c5e53c016e661568733f018eaa6f6ec38350e296c8827d94d9a21013/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966?w=800" alt="MasterHead" width="1100" height="190">
+<img src="https://camo.githubusercontent.com/b3449705c5e53c016e661568733f018eaa6f6ec38350e296c8827d94d9a21013/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966?w=800" alt="MasterHead" width="1100" height="200">
 
 
 
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I'm alien🤖 & not funny!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Wanna connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kamalsingh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamalsingh01" height="30" width="40" /></a>
 <a href="https://instagram.com/kamalrsrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamalrsrajput" height="30" width="40" /></a>
