@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="450" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Cool Products!🚀💻**
+- 🔭 I’m currently working on **Cool Tech Products!🚀💻**
 
 - 🌱 I’m currently learning **Android Dev, iOS, Web3 & AI**
 
-- 💬 Ask me about **React, Flutter, Web3, AI, IoT, Node, ExpressJS, MongoDB & Data Structures**
+- 💬 Ask me about **React, Flutter, Web3, AI, .NET, IoT, Node, ExpressJS, MongoDB & Data Structures**
 
 - 📫 How to reach me **kamalsingh23056@gmail.com**
 
