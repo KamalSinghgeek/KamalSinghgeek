@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kamalsingh23056@gmail.com**
 
-- ⚡ Fun fact **I'm alien🤖 & not funny!**
+- ⚡ Fun fact **I'm alien & not funny!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
