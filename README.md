@@ -10,16 +10,16 @@
 
 <h3 align="left">Experience:</h3>
 
-- Demonstrated expertise in development, debugging, documentation and resolving complex technical issues, resulting in a 20% reduction in software downtime and a 15% improvement in system reliability, saving an estimated 100 hours of downtime annually.
-- Spearheaded the implementation of cutting-edge front-end and back-end features that directly resulted in a 25% increase in user satisfaction, contributing to a 15% rise in customer retention and capturing an additional 10% market share in the industry.
-- Engaged in continuous learning and professional development, resulting in a 10% increase in team productivity, equivalent to completing 20% more projects within existing timelines, and a reduction in time-to market for new features, accelerating revenue generation.
-- Consistently delivered high-quality solutions and fostered innovation, contributing to a 15% increase in annual revenue, equating to $1 million additional revenue, and solidifying Fleet Stack’s reputation as an industry leader, leading to a increase in inbound leads.
+- Demonstrated expertise in **development, debugging, documentation** and resolving complex technical issues, resulting in a **20% reduction** in software downtime and a **15% improvement in system reliability**, saving an estimated **100 hours of downtime** annually.
+- **Spearheaded** the implementation of **cutting-edge front-end and back-end features** that directly resulted in a **25% increase** in **user satisfaction**, contributing to a **15% rise** in customer retention and capturing an **additional 10% market share** in the industry.
+- Engaged in continuous learning and professional development, resulting in a **10% increase in team productivity**, equivalent to c**ompleting 20% more projects** within existing timelines, and a reduction in **time-to market for new features**, accelerating **revenue generation**.
+- Consistently **delivered high-quality solutions** and fostered innovation, **contributing to a 15% increase in annual revenue**, equating to **$1 million additional revenue**, and solidifying Fleet Stack’s reputation as an industry leader, **leading to a increase in inbound leads**.
 
 <h3 align="left">Achievements:</h3>
 
 - Solved 800+ Data Structure and Algorithm problems on platforms like **LeetCode**, **HackerRank**, and **CodeChef**
 - Achieved 5 stars in **Data Structures and Algorithms** on **HackerRank**
-- Attained a global rank of **81 in CodeChef October Challenge** contest.
+- Attained a global rank of **81** in **CodeChef October Challenge** contest.
 - Qualified for the **CodeChef SnackDown’21 Qualifier Round**.
 - Successfully completed **50+ Full Stack Web Apps** and ** Websites** for clients globally.
 - Provided mentorship to **1500+ mentees in DSA, Development & System Design at Desi QnA.**
