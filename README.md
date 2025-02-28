@@ -18,17 +18,18 @@ satisfaction, contributing to a 15% rise in customer retention and capturing an 
 - Consistently delivered high-quality solutions and fostered innovation, contributing to a 15% increase in annual revenue, equating to
 $1 million additional revenue, and solidifying Fleet Stack’s reputation as an industry leader, leading to a increase in inbound leads
 
-- 📫 How to reach me **kamalsingh23056@gmail.com**
-
-- ⚡ Fun fact **I'm alien & serious!**
-
 <h3 align="left">Achievements:</h3>
-- Solved 800+ Data Structure and Algorithm problems on platforms like **LeetCode, HackerRank, and CodeChef**
-- Achieved 5 stars in **Data Structures and Algorithms** on **HackerRank.**
+- Solved 800+ Data Structure and Algorithm problems on platforms like **LeetCode**, **HackerRank**, and **CodeChef**
+- Achieved 5 stars in **Data Structures and Algorithms** on **HackerRank**
 - Attained a global rank of **81 in CodeChef October Challenge** contest.
 - Qualified for the **CodeChef SnackDown’21 Qualifier Round**.
 - Successfully completed **50+ Full Stack Web Apps** and ** Websites** for clients globally.
 - Provided mentorship to **1500+ mentees in DSA, Development & System Design at Desi QnA.**
+
+
+- 📫 How to reach me **kamalsingh23056@gmail.com**
+
+- ⚡ Fun fact **I'm alien & serious!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
