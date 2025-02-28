@@ -25,6 +25,7 @@
 - Provided mentorship to **1500+ mentees in DSA, Development & System Design at Desi QnA.**
 
 <h3 align="left">Skills:</h3>
+
 - ** Programming Languages:** C++, JavaScript, Java, Python, TypeScript
 - **Frameworks & Libraries:** ReactJS, Next.js, NodeJS, ExpressJS, MongoDB, Redux, Tailwind CSS, CSS, HTML, RESTful APIs, Microservices, UI/UX, NPM, Axios, React Router, React Hooks, SQL, PostgreSQL, GraphQL, .NET Core
 **Tools & Technologies: ** Visual Studio, Atom, AWS, Azure, GitHub, Version Control (Git), Linux, Render, Postman, Insomnia, Firebase, Google Cloud
