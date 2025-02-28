@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="450" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Cool Tech Products!🚀💻**
-
+- Open to new roles with **2 Years of Experience** in Software Development.
 - 🌱 I’m currently learning **Android Dev, iOS, Web3 & AI**
 - Provided mentorship to 1500+ mentees in **DSA, Development & System Design**
 - 💬 Ask me about **React, Flutter, Web3, AI, .NET, IoT, Node, ExpressJS, MongoDB & Data Structures**
