@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Kamal</h1>
+<h1 align="center">Hi👋, I'm Kamal Singh</h1>
 <h3 align="center">A Quantum Code Wrangler: Unraveling complex algorithms and entangling with cutting-edge tech at the warp-speed headquarters of a hyperdimensional Product Frontier! 🚀🔬</h3>
 
 <img align="right" alt="Coding" width="450" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
