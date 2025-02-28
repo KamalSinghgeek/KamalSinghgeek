@@ -16,6 +16,7 @@
 - Consistently delivered high-quality solutions and fostered innovation, contributing to a 15% increase in annual revenue, equating to $1 million additional revenue, and solidifying Fleet Stack’s reputation as an industry leader, leading to a increase in inbound leads.
 
 <h3 align="left">Achievements:</h3>
+
 - Solved 800+ Data Structure and Algorithm problems on platforms like **LeetCode**, **HackerRank**, and **CodeChef**
 - Achieved 5 stars in **Data Structures and Algorithms** on **HackerRank**
 - Attained a global rank of **81 in CodeChef October Challenge** contest.
