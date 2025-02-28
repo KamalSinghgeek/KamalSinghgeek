@@ -25,9 +25,10 @@
 - Provided mentorship to **1500+ mentees in DSA, Development & System Design at Desi QnA.**
 
 <h3 align="left">How to reach me📩:</h3>
+
+- 📫 Drop me a mail to **kamalsingh23056@gmail.com**
 - Resume: https://drive.google.com/file/d/1B8Olg7cE_qUYo43U4uW4sVaDHMG6TPkd/view
 
-- 📫 Drop me a mail to **kamalsingh23056@gmail.com**.
 
 
 <h3 align="left">Connect with me:</h3>
