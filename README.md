@@ -24,8 +24,9 @@
 - Successfully completed **50+ Full Stack Web Apps** and ** Websites** for clients globally.
 - Provided mentorship to **1500+ mentees in DSA, Development & System Design at Desi QnA.**
 
+<h3 align="left">How to reach me📩:</h3>
 
-- 📫 How to reach me **kamalsingh23056@gmail.com**
+- 📫 Drop me a mail to **kamalsingh23056@gmail.com**.
 
 - ⚡ Fun fact **I'm alien & serious!**
 
