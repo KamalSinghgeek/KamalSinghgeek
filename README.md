@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Kamal Singh</h1>
 <h3 align="center">A Quantum Code Wrangler: Unraveling complex algorithms and entangling with cutting-edge tech at the warp-speed headquarters of a hyperdimensional Product Frontier! 🚀🔬</h3>
 
-<img align="right" alt="Coding" width="350" height="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="370" height="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Cool Tech Products!🚀💻**
 - Open to new roles with **2 Years of Experience** in Software Development.
