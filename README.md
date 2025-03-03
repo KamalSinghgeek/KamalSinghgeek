@@ -21,7 +21,7 @@
 - Achieved 5 stars in **Data Structures and Algorithms** on **HackerRank**
 - Attained a global rank of **81** in **CodeChef October Challenge** contest.
 - Qualified for the **CodeChef SnackDown’21 Qualifier Round**.
-- Successfully completed **50+ Full Stack Web Apps** and ** Websites** for clients globally.
+- Successfully completed **50+ Full Stack Web Apps** and **Websites** for clients globally.
 - Provided mentorship to **1500+ mentees in DSA, Development & System Design at Desi QnA.**
 
 <h3 align="left">Skills:</h3>
@@ -30,7 +30,7 @@
 - **Frameworks & Libraries** :  ReactJS, Next.js, NodeJS, ExpressJS, MongoDB, Redux, Tailwind CSS, CSS, HTML, RESTful APIs, Microservices, UI/UX, NPM, Axios, React Router, React Hooks, SQL, PostgreSQL, GraphQL, .NET Core
 - **Tools & Technologies**: Visual Studio, Atom, AWS, Azure, GitHub, Version Control (Git), Linux, Render, Postman, Insomnia, Firebase, Google Cloud
 
-<h3 align="left">How to reach me📩:</h3>
+<h3 align="left">How to reach me📩?</h3>
 
 - 📫 Drop me a mail to **kamalsingh23056@gmail.com**
 - Resume: https://drive.google.com/file/d/1B8Olg7cE_qUYo43U4uW4sVaDHMG6TPkd/view
