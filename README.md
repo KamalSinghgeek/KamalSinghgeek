@@ -32,7 +32,7 @@
 
 <h3 align="left">How to reach me📩?</h3>
 
-- 📫 Drop me a mail to **kamalsingh23056@gmail.com**
+- 📫 Drop me a mail at **kamalsingh23056@gmail.com**
 - Resume: https://drive.google.com/file/d/1B8Olg7cE_qUYo43U4uW4sVaDHMG6TPkd/view
 
 
