@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="370" height="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Cool Tech Products** at **Fleet Stack!🚀💻**
-- Open to new roles with **2 Years of Experience** in Software Development.
+- Open to new roles with in Software Development.
 - 🌱 I’m currently learning **Android Dev, iOS, Web3 & AI**
 - 💬 Ask me about **React, Flutter, Web3, AI, .NET, IoT, Node, ExpressJS, MongoDB & Data Structures**
 
