@@ -1,34 +1,37 @@
 <h1 align="center">Hi👋, I'm Kamal Singh</h1>
-<h3 align="center">A Quantum Code Wrangler: Unraveling complex algorithms and entangling with cutting-edge tech at the warp-speed headquarters of a hyperdimensional Product Frontier! 🚀🔬</h3>
+<h3 align="center">A Full Stack Engineer building scalable systems, crafting AI-powered products, and mentoring minds — solving real problems through code 🚀</h3>
 
 <img align="right" alt="Coding" width="370" height="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Cool Tech Products** at **Fleet Stack!🚀💻**
-- Open to new roles with in Software Development.
-- 🌱 I’m currently learning **Android Dev, iOS, Web3 & AI**
-- 💬 Ask me about **React, Flutter, Web3, AI, .NET, IoT, Node, ExpressJS, MongoDB & Data Structures**
+- 🔭 Currently working on **AI-driven Fleet Management Systems** at **Fleet Stack**
+- 🚀 Open to new roles in **Product Engineering | AI Integration | System Architecture**
+- 🌱 Exploring **Android, iOS, Web3**, and deeper AI/ML integrations
+- 💬 Ask me about **React, Node.js, Express, TypeScript, MongoDB, Prompt Engineering, LLMs, .NET Core, IoT & Scalable Architectures**
 
-<h3 align="left">Experience:</h3>
+<h3 align="left">Experience Highlights:</h3>
 
-- Demonstrated expertise in **development, debugging, documentation** and resolving complex technical issues, resulting in a **20% reduction** in software downtime and a **15% improvement in system reliability**, saving an estimated **100 hours of downtime** annually.
-- **Spearheaded** the implementation of **cutting-edge front-end and back-end features** that directly resulted in a **25% increase** in **user satisfaction**, contributing to a **15% rise** in customer retention and capturing an **additional 10% market share** in the industry.
-- Engaged in continuous learning and professional development, resulting in a **10% increase in team productivity**, equivalent to c**ompleting 20% more projects** within existing timelines, and a reduction in **time-to market for new features**, accelerating **revenue generation**.
-- Consistently **delivered high-quality solutions** and fostered innovation, **contributing to a 15% increase in annual revenue**, equating to **$1 million additional revenue**, and solidifying Fleet Stack’s reputation as an industry leader, **leading to a increase in inbound leads**.
+- Built high-performance web infrastructure: **40% faster load times**, **35% better API response**, improving user satisfaction by **10%**
+- Integrated **GPT-4 & Anthropic Claude** into products via **RAG pipelines**, embedding APIs, and internal LLM agents — boosting operational efficiency by **30%**
+- Designed full-stack apps with real-time data, deep state management, and authentication — contributing to major product wins
+- Reduced support issues by **25%** through smart debugging and system optimization
+- Mentored junior devs, led architecture reviews, enforced clean code and scalability practices — driving **15%+ team productivity boost**
+- Bridged gaps across engineering, design, and product — driving **30% better feature adoption and customer feedback loop efficiency**
 
 <h3 align="left">Achievements:</h3>
 
-- Solved 800+ Data Structure and Algorithm problems on platforms like **LeetCode**, **HackerRank**, and **CodeChef**
-- Achieved 5 stars in **Data Structures and Algorithms** on **HackerRank**
-- Attained a global rank of **81** in **CodeChef October Challenge** contest.
-- Qualified for the **CodeChef SnackDown’21 Qualifier Round**.
-- Successfully completed **50+ Full Stack Web Apps** and **Websites** for clients globally.
-- Provided mentorship to **1500+ mentees in DSA, Development & System Design at Desi QnA.**
+- 🧠 Solved **800+ DSA problems** across **LeetCode, HackerRank & CodeChef**
+- 🏆 **5⭐ in DSA** on HackerRank, Global Rank **#81** in CodeChef October Challenge
+- 🎯 Finalist – CodeChef **SnackDown’21** Qualifier Round
+- 🌍 Completed **50+ full-stack apps & websites** for global clients
+- 👨‍🏫 Mentored **1500+ learners** in DSA, full-stack development & system design at **Desi QnA**
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">Technical Skills:</h3>
 
-- **Programming Languages** : C++, JavaScript, Java, Python, TypeScript
-- **Frameworks & Libraries** :  ReactJS, Next.js, NodeJS, ExpressJS, MongoDB, Redux, Tailwind CSS, CSS, HTML, RESTful APIs, Microservices, UI/UX, NPM, Axios, React Router, React Hooks, SQL, PostgreSQL, GraphQL, .NET Core
-- **Tools & Technologies**: Visual Studio, Atom, AWS, Azure, GitHub, Version Control (Git), Linux, Render, Postman, Insomnia, Firebase, Google Cloud
+- 💻 <strong>Languages:</strong> C++, JavaScript, Java, Python, TypeScript  
+- ⚙️ <strong>Frameworks/Libraries:</strong> ReactJS, Next.js, Node.js, Express, Redux, MongoDB, Tailwind, GraphQL, PostgreSQL, REST, .NET Core  
+- 🧠 <strong>AI/ML:</strong> OpenAI API (GPT-4), Anthropic Claude, Prompt Engineering, RAG Pipelines, Embedding APIs  
+- ☁️ <strong>Cloud/Infra:</strong> AWS, Google Cloud, Firebase, Render, Azure  
+- 🛠️ <strong>Tools:</strong> Git, GitHub, Postman, Insomnia, Linux, Visual Studio, NPM, Figma
 
 <h3 align="left">How to reach me📩?</h3>
 
