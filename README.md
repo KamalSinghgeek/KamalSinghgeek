@@ -36,9 +36,7 @@
 <h3 align="left">How to reach me📩?</h3>
 
 - 📫 Drop me a mail at **kamalsingh23056@gmail.com**
-- Resume: https://drive.google.com/file/d/1B8Olg7cE_qUYo43U4uW4sVaDHMG6TPkd/view
-
-
+- Resume: https://drive.google.com/file/d/1Sy-slTTlDljBc7VJzHbAJ6D6baY97ZXN/view
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
