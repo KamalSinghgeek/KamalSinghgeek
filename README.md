@@ -13,7 +13,7 @@ Full Stack Engineer building scalable products, AI-powered systems, and high-per
     <img src="https://img.shields.io/badge/LeetCode-800%2B%20Problems-orange?style=for-the-badge&logo=leetcode" />
   </a>
 
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-success?style=for-the-badge" />
+
   <img src="https://img.shields.io/badge/Focus-Product%20Engineering-black?style=for-the-badge" />
 </p>
 
