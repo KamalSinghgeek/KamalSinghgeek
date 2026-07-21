@@ -150,7 +150,7 @@ const kamal: Engineer = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KamalSinghgeek&theme=radical&no-frame=true&no-bg=true&row=1&column=8&margin-w=8&margin-h=8" alt="trophies" />
+  <img src="https://raw.githubusercontent.com/KamalSinghgeek/KamalSinghgeek/output/trophy.svg" alt="trophies" />
 </p>
 
 <picture>
