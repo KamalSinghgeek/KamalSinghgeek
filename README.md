@@ -121,8 +121,8 @@ const kamal: Engineer = {
 </table>
 
 <p align="center">
-  <a href="https://github.com/KamalSinghgeek/Kamal-Estate"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KamalSinghgeek&repo=Kamal-Estate&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E5&text_color=C9D1D9" alt="Kamal-Estate" /></a>
-  <a href="https://github.com/KamalSinghgeek/ChatGPT-Clone"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KamalSinghgeek&repo=ChatGPT-Clone&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E5&text_color=C9D1D9" alt="ChatGPT-Clone" /></a>
+  <a href="https://github.com/KamalSinghgeek/Kamal-Estate"><img width="49%" src="https://github-readme-stats-tau-gules-98.vercel.app/api/pin/?username=KamalSinghgeek&repo=Kamal-Estate&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E5&text_color=C9D1D9" alt="Kamal-Estate" /></a>
+  <a href="https://github.com/KamalSinghgeek/ChatGPT-Clone"><img width="49%" src="https://github-readme-stats-tau-gules-98.vercel.app/api/pin/?username=KamalSinghgeek&repo=ChatGPT-Clone&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E5&text_color=C9D1D9" alt="ChatGPT-Clone" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FFF,100:FF00E5&height=3" alt="" />
@@ -131,17 +131,17 @@ const kamal: Engineer = {
 <h2 align="center">◈ GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KamalSinghgeek&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E5&text_color=C9D1D9&ring_color=00F5FF&rank_icon=github" alt="stats" />
+  <img width="49%" src="https://github-readme-stats-tau-gules-98.vercel.app/api?username=KamalSinghgeek&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E5&text_color=C9D1D9&ring_color=00F5FF&rank_icon=github" alt="stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=KamalSinghgeek&hide_border=true&background=0D1117&stroke=21262D&ring=00F5FF&fire=FF00E5&currStreakNum=FFFFFF&currStreakLabel=00F5FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="streak" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalSinghgeek&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="top languages" />
+  <img width="60%" src="https://github-readme-stats-tau-gules-98.vercel.app/api/top-langs/?username=KamalSinghgeek&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="top languages" />
 </p>
 
 <!-- WakaTime: uncomment after creating a WakaTime account with public stats
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="coding time" />
+  <img width="60%" src="https://github-readme-stats-tau-gules-98.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="coding time" />
 </p>
 -->
 
