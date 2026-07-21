@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
-<img width="100%" src="https://github-readme-stats-tau-gules-98.vercel.app//api?type=waving&height=240&color=0:0F0C29,35:1B1140,65:302B63,100:24243E&text=KAMAL%20SINGH&fontSize=54&fontColor=00F5FF&fontAlignY=32&animation=fadeIn&desc=Full%20Stack%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Production%20SaaS&descSize=18&descAlignY=54" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F0C29,35:1B1140,65:302B63,100:24243E&text=KAMAL%20SINGH&fontSize=54&fontColor=00F5FF&fontAlignY=32&animation=fadeIn&desc=Full%20Stack%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Production%20SaaS&descSize=18&descAlignY=54" alt="banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=760&height=48&lines=Full+Stack+Engineer+%C2%B7+3%2B+yrs+shipping+production+SaaS;AI+Agents+%C2%B7+RAG+Pipelines+%C2%B7+LLM+Orchestration;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+PostgreSQL;Performance%2C+reliability%2C+and+systems+that+scale" alt="typing intro" />
@@ -18,7 +18,7 @@
   <a href="mailto:kamalsingh23056@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FF00E5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
 </p>
 
-<img width="100%" src="https://github-readme-stats-tau-gules-98.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FFF,100:FF00E5&height=3" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FFF,100:FF00E5&height=3" alt="" />
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 <h2 align="center">◈ ABOUT ME</h2>
@@ -43,7 +43,7 @@ const kamal: Engineer = {
 };
 ```
 
-<img width="100%" src="https://github-readme-stats-tau-gules-98.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FFF,100:FF00E5&height=3" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FFF,100:FF00E5&height=3" alt="" />
 
 <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
 <h2 align="center">◈ TECH ARSENAL</h2>
@@ -78,7 +78,7 @@ const kamal: Engineer = {
   <img src="https://img.shields.io/badge/Prompt-Engineering-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="Prompt Engineering" />
 </p>
 
-<img width="100%" src="https://github-readme-stats-tau-gules-98.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FFF,100:FF00E5&height=3" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FFF,100:FF00E5&height=3" alt="" />
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 <h2 align="center">◈ FLAGSHIP BUILDS</h2>
