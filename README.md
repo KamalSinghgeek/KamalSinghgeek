@@ -27,7 +27,7 @@
 const kamal: Engineer = {
   location:   "Delhi NCR, India · UTC+05:30",
   role:       "Full Stack Engineer @ ISIR AI",
-  experience: "3+ years owning revenue-critical SaaS end to end",
+  experience: "4+ years owning revenue-critical SaaS end to end",
 
   architecture: ["multi-tenant SaaS", "RBAC + JWT auth", "payment systems", "observability-first backends"],
   ai:           ["AI agents", "RAG pipelines", "embeddings + vector search", "LLM orchestration"],
